@@ -17,6 +17,6 @@ Olá, seja bem vindo ao meu projeto Literalura, o objetivo deste desafio é:
 ## Autor e referências
 Ausiane Costa - Alura+Oracle
 
-
+![Insira aqui a descrição dessa imagem para ajudar na acessibilidade](https://cdn1.gnarususercontent.com.br/1/4658780/b3620e48-872d-4b28-a506-ab00f5a4a9d6.png)  
 
 
